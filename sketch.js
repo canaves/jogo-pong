@@ -3,7 +3,7 @@ let raqueteJogador, raqueteComputador, bola, barraSuperior, barraInferior;
 let fundoImg, bolaImg, barra1Img, barra2Img;
 let bounceSound, golSound, torcidaSound, winnerSound;
 let nomeJogador = "";
-const nomeComputador = "Sua Irmã";
+const nomeComputador = "Botzin";
 let placarJogador = 0;
 let placarComputador = 0;
 const limiteDeGols = 3; // Limite de 10 gols para terminar o jogo
